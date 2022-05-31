@@ -14,5 +14,8 @@
 
 본 워크숍에서는 지도학습(Supervised learning)을 위한 기계학습 기법들을 주로 다룰 예정입니다.  
 
-강의 수강에 필요한 자료는 모두 이곳에서 다운받으실 수 있습니다.  
-본 강의자료들은 James et al. (2021)의 "An Introduction to Statistical Learning"을 주교재로 참고하였습니다.  
+강의 수강에 필요한 자료는 모두 이곳에서 다운받으실 수 있습니다.
+
+참고 문헌:
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An Introduction to Statistical Learning. 2nd Edition. Springer.  
+Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning. Data Mining, Inference, and Prediction. 2nd Edition. Springer.
