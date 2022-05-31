@@ -16,6 +16,6 @@
 
 강의 수강에 필요한 자료는 모두 이곳에서 다운받으실 수 있습니다.
 
-참고 문헌:
+참고 문헌:  
 James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An Introduction to Statistical Learning. 2nd Edition. Springer.  
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning. Data Mining, Inference, and Prediction. 2nd Edition. Springer.
